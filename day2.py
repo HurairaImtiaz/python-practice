@@ -1,0 +1,15 @@
+var1="this Is a first Python Program"
+print(var1)
+print(var1 [::])
+print(var1 [0:15])
+print(var1 [0:15:3])
+print(len(var1))
+print(var1.isalnum())
+print(var1.endswith("Program"))
+print(var1.count("i"))
+print(var1.capitalize())
+print(var1.find("a"))
+print(var1.lower())
+print(var1.upper())
+print(var1.replace("first","last"))
+
