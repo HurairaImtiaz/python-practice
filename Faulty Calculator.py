@@ -1,5 +1,10 @@
 # A Program that perform wrong calculation as per Instruction other wise it will perform calculation accurately 
 # using IF & IF ELSE 
+# Wrong Calculations Are : 
+#     1. 77+92 = 7792
+#     2. 50-25=120
+#     3. 155/8=3
+#     4. 33*11 =120
 print("Enter 1st number =")
 num1= int(input())
 print("choose + for Addition \n choose - for Subtraction \n choose / for Division \n choose * for Multiplication \n")
@@ -38,3 +43,4 @@ elif operator== "*":
         print ("Multiplication is =" ,num1 * num2)
 else:
     print("You Entered Invalid Operator")                                     
+print("THANKS FOR USING OUR SERVICE :)")    
